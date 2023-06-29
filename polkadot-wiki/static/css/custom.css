@@ -248,7 +248,7 @@ button.menu__button {
     font-size: 1.5rem;
     font-family: 'Material Icons';
     content: 'arrow_upward';
-    -webkit-font-feature-settings: 'liga';
+    font-feature-settings: 'liga';
     position: absolute;
     left: 50%;
     bottom: 3rem;
